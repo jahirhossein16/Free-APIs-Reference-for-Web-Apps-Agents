@@ -138,6 +138,7 @@ A curated list of free APIs by category, with links to create keys and how to us
 | API | What it does | Get key / sign up | Free tier | Use in projects |
 |-----|--------------|-------------------|-----------|-----------------|
 | **REST Countries** | Country data | https://restcountries.com/ | Free | Localization, country-based agents |
+| **Bucketlist.nl Dream of the Day** | One daily travel or life-experience idea, image and source URL; Dutch by default | No key; [OpenAPI](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Free keyless GET; numerical quota not published | Travel-inspiration demos and daily suggestion widgets |
 | **NewsAPI** | News headlines | https://newsapi.org/ | Dev free tier | News summarizer agents |
 | **GNews API** | News | https://gnews.io/ | e.g. 100 req/day | Same as above |
 | **NASA API** | Space data, images | https://api.nasa.gov/ (request key) | Free | Education, space-themed agents |
